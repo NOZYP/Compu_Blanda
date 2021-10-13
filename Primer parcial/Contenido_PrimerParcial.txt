@@ -1,0 +1,11 @@
+La evaluación es una sustentación de máximo 5 minutos, individual, sobre los dos siguientes temas
+
+
+1) Elaboración de un Paper sobre el perceptrón, su entrenamiento y el backpropagation
+
+
+2) Un código en COLAB sobre uno de los dos siguientes temas:
+
+
+     A) Procesamiento de Lenguaje Natural
+     B) Lógica Difusa
